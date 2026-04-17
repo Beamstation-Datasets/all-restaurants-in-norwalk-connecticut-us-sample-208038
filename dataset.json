@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Market-wide restaurant data for Norwalk in New England. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Norwalk, Connecticut, US",
+  "export_job_id": "7ba9a289-aaca-47be-96e3-450e54e48133",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 208038,
+  "location_name": "Norwalk",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-norwalk-connecticut-us-sample-208038",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/208038/beamstation_208038_restaurants-us-ct_SAMPLE_DIST.csv",
+  "sample_pct": 9.95,
+  "sample_records": 85,
+  "sample_sha256": "68b29dbfb3ac82ba43db7a66ae7a7cccb2fa32caec484031a64b0944e87ce270",
+  "sample_size_bytes": 316749,
+  "total_records": 854,
+  "updated_at": "2026-04-14T18:45:40.259386+00:00"
+}
