@@ -1,0 +1,12 @@
+{
+  "export_job_id": "7ba9a289-aaca-47be-96e3-450e54e48133",
+  "id_short": 208038,
+  "published_at": "2026-04-17T19:06:42Z",
+  "repo_name": "all-restaurants-in-norwalk-connecticut-us-sample-208038",
+  "sample_asset_name": "beamstation_208038_restaurants-us-ct_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/208038/beamstation_208038_restaurants-us-ct_SAMPLE_DIST.csv",
+  "sample_records": 85,
+  "sample_sha256": "68b29dbfb3ac82ba43db7a66ae7a7cccb2fa32caec484031a64b0944e87ce270",
+  "sample_size_bytes": 316749,
+  "total_records": 854
+}
