@@ -1,6 +1,6 @@
 # All Restaurants in Norwalk, Connecticut, US
 
-> Free BeamStation sample export with 85 rows and masked direct-contact fields.
+> Free BeamStation sample export with 70 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `208038` |
 | Location | Norwalk |
 | Category | Restaurants |
-| Full dataset size | 854 records |
-| Free sample size | 85 records (9.95%) |
-| Last export | 2026-04-14T18:45:40.259386+00:00 |
+| Full dataset size | 703 records |
+| Free sample size | 70 records (9.96%) |
+| Last export | 2026-04-21T20:37:03.502706+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-norwalk-connecticut-us-sample-208038/releases/download/sample-latest/beamstation_208038_restaurants-us-ct_SAMPLE_DIST.csv) |
 
 ## What is in this sample
